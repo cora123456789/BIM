@@ -1,7 +1,7 @@
 @echo off
 chcp 65001 >nul
 cd /d "%~dp0"
-rem START_VR_SERVER v2 (HTML+GLB pruefen, py -3, --bind 127.0.0.1). Alte kurze BAT auf GitHub ersetzen.
+rem START_VR_SERVER v2 (HTML+GLB pruefen, py -3, --bind 127.0.0.1).
 
 title BIM VR – lokaler Server
 echo.
